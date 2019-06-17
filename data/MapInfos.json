@@ -10,7 +10,7 @@ null,
 {"id":8,"expanded":true,"name":"Fôret","order":8,"parentId":0,"scrollX":811,"scrollY":482},
 {"id":9,"expanded":false,"name":"Maison1","order":9,"parentId":8,"scrollX":819,"scrollY":478},
 {"id":10,"expanded":true,"name":"Souterrains des gobelins","order":11,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":11,"expanded":false,"name":"Souterrains des gobelins","order":12,"parentId":10,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"Souterrains des gobelins","order":12,"parentId":10,"scrollX":811,"scrollY":482},
 null,
 {"id":13,"expanded":false,"name":"Maison de M.Thang","order":10,"parentId":8,"scrollX":819,"scrollY":478}
 ]
