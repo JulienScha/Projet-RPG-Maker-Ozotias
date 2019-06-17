@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":4,"characterName":"!Flame","classId":1,"equips":[0,11,5,6],"faceIndex":2,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"????","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_6","characterIndex":5,"characterName":"Actor2","classId":3,"equips":[3,0,9,10],"faceIndex":5,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cenandra","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor5_1","characterIndex":0,"characterName":"Actor5_1","classId":5,"equips":[4,0,7,8],"faceIndex":0,"faceName":"Actor5_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Trappeur","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[1,0,5,6],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Guerrier","nickname":"","note":"","profile":""}
+]

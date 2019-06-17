@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Bouclier","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Casque","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Vêtement","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Bague","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
+{"id":5,"atypeId":4,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Casque en ferraille","note":"","params":[10,0,2,5,0,0,0,0],"price":300},
+{"id":6,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Armure en ferraille","note":"","params":[10,0,2,5,0,0,0,0],"price":300},
+{"id":7,"atypeId":3,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":131,"name":"Capuche en cuir de mouton","note":"","params":[0,0,0,2,0,0,2,0],"price":300},
+{"id":8,"atypeId":3,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":135,"name":"Pourpoint en cuir de mouton","note":"","params":[0,0,0,2,0,0,2,0],"price":300},
+{"id":9,"atypeId":2,"description":"","etypeId":3,"traits":[{"code":23,"dataId":4,"value":0.9}],"iconIndex":133,"name":"Chapeau en lin","note":"","params":[0,0,0,2,2,5,0,0],"price":300},
+{"id":10,"atypeId":2,"description":"","etypeId":4,"traits":[{"code":23,"dataId":4,"value":0.9}],"iconIndex":138,"name":"Robe en Lin","note":"","params":[0,0,0,2,2,0,0,0],"price":300},
+{"id":11,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":12,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":13,"atypeId":4,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Casque en mithril","note":"","params":[10,0,10,30,0,0,0,0],"price":3000},
+{"id":14,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Armure en mithril","note":"","params":[10,0,10,30,0,0,0,0],"price":300},
+{"id":15,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
